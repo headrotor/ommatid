@@ -5,7 +5,7 @@ Code and design files for my Ommatid spherical display/sensor array.
 * Here's an [Instructable about the enclosure and dome fabrication](http://www.instructables.com/id/Ommatid-Spherical-Display-constructing-the-enclosu/)
 * Here's an [Instructable about the electronics and software](http://www.instructables.com/id/Ommatid-Spherical-Display-Electronics-Programming-/)
 
-![cad rendering of sphere bottom section][ommatid-angles.png]
+![cad rendering of sphere bottom section](/ommatid-angles.png?raw=true "Ommatid CAD")
 
 Here are the construction and code files:
 
